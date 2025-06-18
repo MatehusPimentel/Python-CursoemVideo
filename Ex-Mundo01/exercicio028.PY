@@ -11,5 +11,6 @@ sleep(1)
 
 if escolha == numero:
     print(f'Parabéns, você acertou! Eu pensei no número {numero}.')
+    
 else:
     print(f'Que pena, você errou! Eu pensei no número {numero} e não no {escolha}.')
